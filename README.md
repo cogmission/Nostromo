@@ -1,4 +1,4 @@
-# # ![Nostromo Logo](http://metaware.us/nostromo.png) Nostromo
+#![Nostromo Logo](http://metaware.us/nostromo.png) Nostromo
 
 #### _Nostromo_ -  makes it easy and fun to track spatial anomalies in routes recorded from your phone.
 

@@ -1,6 +1,6 @@
 # Nostromo
 
-#### Nostromo makes it easy and fun to track spatial anomalies in routes recorded from your phone.
+#### _Nostromo_ -  makes it easy and fun to track spatial anomalies in routes recorded from your phone.
 
 Nostromo is...
 

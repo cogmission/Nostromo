@@ -15,7 +15,8 @@ Nostromo is...
 * An all-in-one standalone tracking and mapping application created for the **[Numenta HTM Challenge](http://numenta.org/blog/2015/09/18/introducing-the-htm-challenge.html)**
 
 ***
-**NOTE:** There won't be anything here until FXMaps has enough to run with...
+**NOTE:** There won't be anything here until FXMaps has enough to run with...  
+
 **Nostromo** is powered by [FXMaps](https://github.com/cogmission/FXMaps) - A new JavaFX Mapping API which allows you to embed Google Maps in your JavaFX application and combines two API's (GMapsFX and google-maps-services-java) to allow one to easily use functionality missing in both, such as:
 * Draw and plot routes and objects on your google map using JavaFx
 * Use Google APIs such as Directions API and GeoCoding API - which the GMapsFX API doesn't offer!

@@ -1,11 +1,12 @@
 #![Nostromo Logo](http://metaware.us/nostromo.png) 
 # Nostromo
-**NOTE:** There won't be anything here until FXMaps has enough to run with...  
 
 > Hudson: 8 meters. 7, 6...  
 Ripley: They can't be. That's inside _the room_.  
 Hudson: It's reading right, man! Look!  
-Hicks: Well then you're not reading **it** right!
+Hicks: Well then you're not reading **it** right!  
+**NOTE:** There won't be anything here until FXMaps has enough to run with...  
+
 
 #### _Nostromo_ -  makes it easy and fun to track spatial anomalies in routes recorded from your phone.
 

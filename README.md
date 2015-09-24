@@ -6,7 +6,7 @@ Ripley: They can't be. That's inside _the room_.
 Hudson: It's reading right, man! Look!  
 Hicks: Well then you're not reading **it** right!  
 
-**NOTE:** There won't be anything here until FXMaps has enough to run with...  
+_**NOTE:** There won't be anything here until FXMaps has enough to run with..._  
 
 
 #### _Nostromo_ -  makes it easy and fun to track spatial anomalies in routes recorded from your phone.

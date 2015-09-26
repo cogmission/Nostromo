@@ -1,5 +1,8 @@
-#![Nostromo Logo](http://metaware.us/nostromo.png) 
-# Nostromo
+<p align="center">
+<img src="http://metaware.us/nostromo.png" alt="Nostromo"/>
+<br>
+<h2>Nostromo</h2>
+</p>
 
 > Hudson: 8 meters. 7, 6...  
 Ripley: They can't be. That's inside _the room_.  

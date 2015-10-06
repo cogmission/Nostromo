@@ -4,6 +4,8 @@
 
 # Nostromo
 
+[![htm.java awesomeness](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](http://cogmission.ai)
+
 > Hudson: 8 meters. 7, 6...  
 Ripley: They can't be. That's inside _the room_.  
 Hudson: It's reading right, man! Look!  
